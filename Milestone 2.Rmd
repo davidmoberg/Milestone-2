@@ -1,0 +1,17 @@
+---
+title: "Milestone-2"
+author: "David Moberg"
+date: "9/21/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Final project Number 1: Simone Chu's "Presidential Speeches" Project, Spring 2019: [https://simonechu.shinyapps.io/presidentialspeeches/]
+
+Simone Chu's Gov 1005 final project was on presidential addresses: Inaugural, State of the Union, relations with the press, and final words in office. Perhaps the most interesting component, to me, is that Simone's project compares emotion and intent, by classifying and displaying the most common words contained within a given speech, and displaying the emotional progession of a speech. Simone's analysis is interesting, and I do really like this analysis of the data.That having been said, I would love more in-depth analysis of the data, or to have more conclusions drawn. It feels more like this is a display of a high-quality program to find and classify words by emotion in a given text, rather than draw significant conclusions. If I were making this specific project, given time I would hope to make perhaps some comparisons of all presidential inaugural addresses available for example, or change in tone between presidents compared over an extended period. Still though, Simone's project is very interesting, and I do not in any way wish to detract from or criticize the job she did.
+
+
+Final Project Number 2: Debora Gonzalez, "The Sunshine State Turns Purple on Election Day" [https://debi-gonzalez.shinyapps.io/FL_Population_and_Politics/] 
